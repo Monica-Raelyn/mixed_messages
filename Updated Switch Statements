@@ -1,0 +1,55 @@
+switch (randomName) {
+  case 0:
+  name = 'Yvonne';
+  break;
+  case 1:
+  name = 'Matthew';
+  break;
+  case 2:
+  name = 'Chris';
+  break;
+  case 3:
+  name = 'Tracy';
+  break;
+  case 4:
+  name = 'Monica';
+  break;
+  }
+
+
+switch (randomActivity) {
+  case 0:
+  activity = 'wrote a program';
+  break;
+  case 1:
+  activity = 'debugged a program';
+  break;
+  case 2:
+  activity = 'tested and evaluated a new program';
+  break;
+  case 3:
+  activity = 'identified areas to modify a program';
+  break;
+  case 4:
+  activity = 'got lost down a rabbit hole trying to create a new program';
+  break;
+}
+
+
+switch (randomProgram) {
+  case 0:
+  program = 'JavaScript';
+  break;
+  case 1:
+  program = 'HTML';
+  break;
+  case 2:
+  program = 'Java';
+  break;
+  case 3:
+  program = 'Python';
+  break;
+  case 4:
+  program = 'CSS';
+  break;
+}
